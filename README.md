@@ -1,3 +1,8 @@
+# Demo URL 
+
+https://slot-game-task.vercel.app/
+
+
 # Assignment: 🎰 Slot
 
 ## 📖 Description
